@@ -6,27 +6,8 @@ A Machine Learning web application that predicts the likelihood of heart disease
 
 ## 🚀 Live Demo
 
-**Streamlit App:** *(Add your deployed Streamlit URL here)*
+**Streamlit App:** https://heart-disease-prediction-ml-n5lcy5oudbfcdnhbgxrnfe.streamlit.app/
 
-Example:
-
-```text
-https://your-app-name.streamlit.app
-```
-
----
-
-## 📂 GitHub Repository
-
-*(Add your GitHub repository URL here)*
-
-Example:
-
-```text
-https://github.com/yourusername/Heart-Disease-Prediction
-```
-
----
 
 ## 📖 Project Overview
 
@@ -164,8 +145,8 @@ This application is intended for educational and demonstration purposes only. It
 
 ## 👩‍💻 Author
 
-**Keerthana Mokila**
+**Kandukuri Charitha**
 
-GitHub: https://github.com/keerthanamokila23
+GitHub: https://github.com/Charithakandukuri
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn:https://www.linkedin.com/in/kandukuri-charitha-4367b3411/
